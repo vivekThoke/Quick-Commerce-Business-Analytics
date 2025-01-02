@@ -1,4 +1,4 @@
-# Quick Commerce Market Data Analysis Project
+# Quick-Commerce-Business-Analytics
 
 ## Overview
 This project examines the quick commerce market in India, focusing on sales trends, product categories, and outlet growth. The analysis uses data cleaning techniques and visualizations to derive actionable insights.
